@@ -59,3 +59,7 @@ if Neuron has been installed in your computer)
 recommended to use the open source software PSPad editor to open the
 project file "PSPad_Project.ppr".  (see
 http://www.neuron.yale.edu/phpBB/viewtopic.php?f=5&t=1219)
+
+20120312 a mosinit.hoc file was added for auto-launch and the solve
+method was updated from euler to derivimplicit in cad.mod.  See
+http://www.neuron.yale.edu/phpBB/viewtopic.php?f=28&t=592
