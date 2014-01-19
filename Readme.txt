@@ -63,3 +63,6 @@ http://www.neuron.yale.edu/phpBB/viewtopic.php?f=5&t=1219)
 20120312 a mosinit.hoc file was added for auto-launch and the solve
 method was updated from euler to derivimplicit in cad.mod.  See
 http://www.neuron.yale.edu/phpBB/viewtopic.php?f=28&t=592
+20140119 init.hoc and experiment/UniformAxonIClamp_ChangeDens.hoc
+updated xopens for unix case sensitive matches of filenames
+experiment/UniformAxon_main.hoc and lib/U_dvdt.hoc respectively.

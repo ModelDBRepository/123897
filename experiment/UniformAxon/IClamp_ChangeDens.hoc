@@ -43,7 +43,7 @@ for (j=81;j>=1;j=j-10) {
       lastv=v(injectPosition)
     }
     
-    xopen("lib/U_dvdt.hoc")
+    xopen("lib/U_Dvdt.hoc")
     
     // Recording 
     printf("%g %g %g %g %g %g %g %g\n", gna12,gna16,v(injectPosition),t,gna_na12(injectPosition), gna_na16(injectPosition), gna_na16(injectPosition)/(gna_na12(injectPosition)+gna_na16(injectPosition)),(v(1)-v_init)/(v(injectPosition)-v_init))

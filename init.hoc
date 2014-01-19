@@ -32,7 +32,7 @@ proc Pyramidal(){
 proc UniformAxon(){
   //p.hide(2)
   forall delete_section()
-  xopen ("experiment/UniformAxon_main.hoc")  
+  xopen ("experiment/UniformAxon_Main.hoc")  
 }
 
 proc SingleComp(){
