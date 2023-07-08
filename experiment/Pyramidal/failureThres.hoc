@@ -44,7 +44,7 @@ for (dTimes=maxDens;dTimes>=minDens;dTimes=dTimes-stepDens){
 
   for (vHalf=-30;vHalf<=-30;vHalf=vHalf+1){                     // CHANGE HERE!!
       
-      /* AIS Nav1.2£ºna12;  SD Nav1.2:na ; AIS Nav1.6:na16; */
+      /* AIS Nav1.2:na12;  SD Nav1.2:na ; AIS Nav1.6:na16; */
       if (changeWhat==1) {
         gna12_ais_max = dTimes*80
         vhalf_na12 = vHalf
