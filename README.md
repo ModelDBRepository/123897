@@ -45,7 +45,4 @@ See **Overview.png** for detailed organization of files.
 
 - 2012-03-12: A mosinit.hoc file was added for auto-launch and the solve method was updated from euler to derivimplicit in cad.mod. See [http://www.neuron.yale.edu/phpBB/viewtopic.php?f=28&t=592](http://www.neuron.yale.edu/phpBB/viewtopic.php?f=28&t=592)
 - 2014-01-19: init.hoc and experiment/UniformAxonIClamp_ChangeDens.hoc updated xopens for unix case sensitive matches of filenames experiment/UniformAxon_main.hoc and lib/U_dvdt.hoc respectively.
-
----
-
-2025-06-02: Converted README to Markdown.
+- 2025-06-02: Converted README to Markdown.
